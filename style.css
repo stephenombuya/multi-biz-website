@@ -1,0 +1,103 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+  
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 5px;
+    color: blue;
+    font-size: 10vh;
+}
+
+nav {
+    padding: 10px;
+}
+
+ul li{
+    color:darkgrey;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    float: right;
+}
+
+nav li {
+    display: flex;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: skyblue;
+    font-size: 30px;
+    font-style: italic;
+}
+
+main {
+    padding: 20px;
+    margin: 50px;
+} 
+
+p{
+    color: greenyellow;
+}
+
+.description{
+    color: chartreuse;
+    font-style: italic;
+}
+
+li a:hover{
+    background-color: black;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.service-cards {
+    display: grid; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+
+h2 {
+    color: chartreuse;
+}
+
+h3 {
+    color: black;
+}
+  
+.service-card {
+    background-color: grey;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.service-card h2 {
+    margin-bottom: 10px;
+}
+
+.service-card a {
+    text-decoration: none;
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.service-card:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+  
