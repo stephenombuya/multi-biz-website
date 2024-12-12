@@ -27,7 +27,7 @@ Ensure the following are installed on your system:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multi-business-website.git
+   git clone https://github.com/stephenombuya/multi-biz-website
    cd multi-business-website
    ```
 2. Install dependencies:
@@ -82,5 +82,5 @@ Contributions are welcome! To contribute:
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please contact [Email](mailto:michiekaombuya@gmail.com).
 
